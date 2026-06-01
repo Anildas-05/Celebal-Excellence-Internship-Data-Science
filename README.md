@@ -25,7 +25,7 @@ Key areas covered during the internship include:
 ## 📂 Repository Structure
 
 ```text
-Celebal-Excellence-Intern-2026
+Celebal-Excellence-Internship-Data-Science
 │
 ├── Week-01
 ├── Week-02
