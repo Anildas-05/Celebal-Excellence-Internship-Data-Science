@@ -92,7 +92,7 @@ Swami Keshvanand Institute of Technology, Jaipur
 ### Connect With Me
 
 - LinkedIn: [https://www.linkedin.com/in/anilkumardas](https://www.linkedin.com/in/anilkumardas5)
-- GitHub: [https://github.com/AnilKumarDasl](https://github.com/Anildas-05)
+- GitHub: [https://github.com/AnilKumarDas](https://github.com/Anildas-05)
 
 ---
 
