@@ -49,7 +49,7 @@ Each week's folder contains the corresponding assignments, notebooks, datasets, 
 |------|--------|--------|
 | Week 01 | Python, Linear Algebra, Statistics & Probability | ✅ Completed |
 | Week 02 | Classical Machine Learning & Time Series Analysis | ✅ Completed |
-| Week 03 | To Be Updated | ⏳ |
+| Week 03 | Classification, Ensemble Learning & Clustering | ✅ Completed | 
 | Week 04 | To Be Updated | ⏳ |
 | Week 05 | To Be Updated | ⏳ |
 | Week 06 | To Be Updated | ⏳ |
