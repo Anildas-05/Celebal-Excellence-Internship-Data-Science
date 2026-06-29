@@ -7,7 +7,7 @@
 - Naive Bayes
 - K-Nearest Neighbors (KNN)
 - Support Vector Machine (SVM)
-
+  
 ### Tree-Based Models
 - Decision Tree
 - Random Forest
