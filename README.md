@@ -52,9 +52,9 @@ Each week's folder contains the corresponding assignments, notebooks, datasets, 
 | Week 03 | Classification, Ensemble Learning & Clustering | ✅ Completed | 
 | Week 04 | Deep Learning & Computer Vision | ✅ Completed |
 | Week 05 |  Sequence Models, RNNs & Transformers | ✅ Completed |
-| Week 06 | To Be Updated | ⏳ |
-| Week 07 | To Be Updated | ⏳ |
-| Week 08 | To Be Updated | ⏳ |
+| Week 06 | Autoencoder, GAN & RAG | ✅ Completed |
+| Week 07 | Advanced RAG & LLM | ✅ Completed |
+| Week 08 | Agentic AI | ✅ Completed |
 
 ---
 
